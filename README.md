@@ -6,7 +6,7 @@ iit-fcc-senior-102-3
 Members:
 陳孟謙 (Smauel12316)
 張藝朦
-彭靖凱
+彭靖凱 (Patrick3283)
 
 Title (English): Quadcopter
 
